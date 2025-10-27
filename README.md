@@ -1,6 +1,6 @@
 # 📊 Data Analysis on CSV File
 
-![Header](file_0000000079e46209b116d494515c335b)
+![Header](images/header.png)
 
 ---
 
@@ -169,17 +169,13 @@ if __name__ == "__main__":
 
 ## 🧾 Task and Output
 
-### 🧠 Task Description
-
-![Task Screenshot](file_00000000f77c622f9c43e85a1360d8cb)
-
 ### 📊 Analysis Output 1
 
-![Output 1](file_000000005c446209a25868249c8647f3)
+![Output 1](images/output1.png)
 
 ### 📈 Analysis Output 2
 
-![Output 2](file_000000005c446209a25868249c8647f3)
+![Output 2](images/output2.png)
 
 ---
 
