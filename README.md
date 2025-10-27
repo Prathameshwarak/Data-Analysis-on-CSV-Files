@@ -191,14 +191,7 @@ if __name__ == "__main__":
 
 ---
 
-## 👨‍💻 Author
-
-**Developed by:** *Warak*
-
-**Project:** ElvateLabs Internship — Task 5
-
----
-
-### 📄 Conclusion
-
-This project highlights the process of analyzing real-world data using Python. With **Pandas** and **Matplotlib**, it’s easy to transform raw CSV data into meaningful business insights and visual reports, forming a foundation for advanced data analytics or machine learning workflows.
+## 🧑‍🏫 Author
+**Prathamesh Sitaram Warak**  
+B.E. Information Technology | Atharva College of Engineering  
+Passionate about coding, cybersecurity,AI-ML and building real-world tech projects.
