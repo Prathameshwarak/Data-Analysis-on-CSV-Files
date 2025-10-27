@@ -1,4 +1,4 @@
-<h2 align="center"># 📊 Data Analysis on CSV File</h2>
+# <h2 align="center">📊 Data Analysis on CSV File</h2>
 
 ![Header](images/header.png)
 
